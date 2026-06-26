@@ -1,5 +1,13 @@
 # Remove Ecosia AI
 
+
+
+## Deprecated:
+
+Ecosia recently added the functionality this script added into the settings page making this script pointless
+
+---
+
 A script that aims to remove all AI elements from Ecosia.org. This includes:  
 
 - Removing the AI Overview 
